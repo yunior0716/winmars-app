@@ -32,4 +32,4 @@ This is a web application for Winmars Properties S.R.L. It includes features for
 ## Contributors
 
 -   [Manuel Madera](https://github.com/Manu0620)
--   [Delio Díaz](https://github.com/yubior0716)
+-   [Delio Díaz](https://github.com/yunior0716)
