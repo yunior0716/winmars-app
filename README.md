@@ -28,3 +28,8 @@ This is a web application for Winmars Properties S.R.L. It includes features for
     ```bash
     php artisan serve
     ```
+
+## Contributors
+
+-   [Manuel Madera](https://github.com/Manu0620)
+-   [Delio Díaz](https://github.com/yubior0716)
